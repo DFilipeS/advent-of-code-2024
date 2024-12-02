@@ -4,4 +4,5 @@
 
 ## Solutions
 
-- Day 1: Historian Hysteria - [Elixir](./Elixir/day_01/)
+- Day 1: Historian Hysteria - [Elixir](./Elixir/lib/day01.ex)
+- Day 2: Red-Nosed Reports - [Elixir](./Elixir/lib/day02.ex)
