@@ -1,5 +1,7 @@
-defmodule Day01Test do
+defmodule AdventOfCode.Day01Test do
   use ExUnit.Case, async: true
+
+  alias AdventOfCode.Day01
 
   describe "part one" do
     test "with example input" do
@@ -19,7 +21,7 @@ defmodule Day01Test do
 
     test "with real input" do
       # Arrange
-      input = File.read!("../../inputs/day_01.txt")
+      input = File.read!("../inputs/day_01.txt")
 
       # Act
       assert Day01.part_1(input) == 1_341_714
@@ -44,7 +46,7 @@ defmodule Day01Test do
 
     test "with real input" do
       # Arrange
-      input = File.read!("../../inputs/day_01.txt")
+      input = File.read!("../inputs/day_01.txt")
 
       # Act
       assert Day01.part_2(input) == 27_384_707

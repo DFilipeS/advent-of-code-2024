@@ -1,4 +1,4 @@
-defmodule Day01 do
+defmodule AdventOfCode.Day01 do
   def part_1(input) do
     input
     |> parse_input()
