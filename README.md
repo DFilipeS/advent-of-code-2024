@@ -8,3 +8,4 @@
 - Day 2: Red-Nosed Reports - [Elixir](./Elixir/lib/day02.ex)
 - Day 3: Mull It Over - [Elixir](./Elixir/lib/day03.ex)
 - Day 4: Ceres Search - [Elixir](./Elixir/lib/day04.ex)
+- Day 5: Print Queue - [Elixir](./Elixir/lib/day05.ex)
