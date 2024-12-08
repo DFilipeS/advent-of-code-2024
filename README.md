@@ -9,3 +9,4 @@
 - Day 3: Mull It Over - [Elixir](./Elixir/lib/day03.ex)
 - Day 4: Ceres Search - [Elixir](./Elixir/lib/day04.ex)
 - Day 5: Print Queue - [Elixir](./Elixir/lib/day05.ex)
+- Day 6: Guard Gallivant - [Elixir](./Elixir/lib/day06.ex)
